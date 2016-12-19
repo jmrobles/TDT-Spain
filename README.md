@@ -20,3 +20,7 @@ Entonces pensé...
 Tiene que estar chupao hacerce una app chorra para esto. Y así es, gracias a este [post](http://www.movilzona.es/2016/12/18/la-mejor-forma-de-ver-la-tdt-online-sin-publicidad-desde-android/) descubrí este [_repo_](https://github.com/ruvelro/TV-Online-TDT-Spain) con las URL de las principales TDT españolas.
 
 Con eso he creado este _"hello world TDT"_ que me permite hacer deporte ¡sin frustarme! ;D
+
+## Version para instalar
+
+Como parece que las apps sin anuncios están mal vistas por Google, podeis descargar la última versión desde aquí en el directorio __"apk"__
